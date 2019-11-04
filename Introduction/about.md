@@ -7,6 +7,8 @@
 
 A solution is a culmination of project(s) and also known as the "application" you're creating.
 
+Documentation: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index
+
 ### Data Types
 
 - System.Char = a single character
