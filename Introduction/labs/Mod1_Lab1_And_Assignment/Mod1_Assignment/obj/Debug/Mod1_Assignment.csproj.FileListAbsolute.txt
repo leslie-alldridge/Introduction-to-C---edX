@@ -1,0 +1,6 @@
+C:\Users\Beast\source\repos\Mod1_Lab1\Mod1_Assignment\bin\Debug\Mod1_Assignment.exe.config
+C:\Users\Beast\source\repos\Mod1_Lab1\Mod1_Assignment\bin\Debug\Mod1_Assignment.exe
+C:\Users\Beast\source\repos\Mod1_Lab1\Mod1_Assignment\bin\Debug\Mod1_Assignment.pdb
+C:\Users\Beast\source\repos\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Beast\source\repos\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.exe
+C:\Users\Beast\source\repos\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.pdb
