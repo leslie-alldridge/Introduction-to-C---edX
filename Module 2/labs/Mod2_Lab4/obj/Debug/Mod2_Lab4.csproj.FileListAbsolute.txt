@@ -1,0 +1,7 @@
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\bin\Debug\Mod2_Lab4.exe.config
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\bin\Debug\Mod2_Lab4.exe
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\bin\Debug\Mod2_Lab4.pdb
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\obj\Debug\Mod2_Lab4.csprojAssemblyReference.cache
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\obj\Debug\Mod2_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\obj\Debug\Mod2_Lab4.exe
+C:\Users\Beast\source\repos\Mod2_Lab1\Mod2_Lab4\obj\Debug\Mod2_Lab4.pdb

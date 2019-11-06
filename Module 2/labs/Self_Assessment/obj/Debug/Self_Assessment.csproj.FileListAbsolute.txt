@@ -1,0 +1,6 @@
+C:\Users\Beast\source\repos\Mod2_Lab1\Self_Assessment\bin\Debug\Self_Assessment.exe.config
+C:\Users\Beast\source\repos\Mod2_Lab1\Self_Assessment\bin\Debug\Self_Assessment.exe
+C:\Users\Beast\source\repos\Mod2_Lab1\Self_Assessment\bin\Debug\Self_Assessment.pdb
+C:\Users\Beast\source\repos\Mod2_Lab1\Self_Assessment\obj\Debug\Self_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Beast\source\repos\Mod2_Lab1\Self_Assessment\obj\Debug\Self_Assessment.exe
+C:\Users\Beast\source\repos\Mod2_Lab1\Self_Assessment\obj\Debug\Self_Assessment.pdb
