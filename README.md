@@ -6,4 +6,4 @@ Labs - Contains all the lab and assignment work ordered by intro and modules
 
 Notes - Course is ordered into three modules, Intro, Module 2 and Module 3
 
-![Completed](/compelted.PNG)
+![Completed](/completed.PNG)
