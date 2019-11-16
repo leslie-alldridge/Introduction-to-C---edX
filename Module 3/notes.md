@@ -28,3 +28,12 @@ Typically, methods only return one item.
 ### Exceptions
 
 When a method throws an exception, the calling code must be prepared to detect and handle this exception.
+
+The recommended strategy to follow with catch blocks is to catch more specific exceptions first, and more general exceptions last.
+
+Create instance of the NullReferenceException class and throw the exception object
+
+```
+var ex = new NullReferenceException("The 'Name' parameter is null.");
+throw ex;
+```
